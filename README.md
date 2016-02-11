@@ -9,6 +9,25 @@ More about Faeria on [Faeria.com](https://www.faeria.com)
 
 
 ## How to use
+card_id;card_name;card_type;gold;faeria;lake;forest;mountain;desert;power;life;text;codex;number_in_codex;_codex_id
 
+### Different functions
 
-## Issues?
+{ranged_attack}: 
+{charge|}: 
+{gift}:
+{production}:
+{combat}:
+{protector}:
+{taunt}:
+{haste}: 
+{last_words}: 
+{deathtouch}: 
+{aquatic}: 
+{jump}:
+{flying}: 
+{activate}: 
+{options|option_1|option_2}:
+{faeria|}:
+
+## Found a problem?
