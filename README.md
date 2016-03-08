@@ -40,4 +40,4 @@ Here is a listing and their meaning of the functions used on the Merlin_shortene
 Each time a new master version is published on our platforms (Steam, iOS, Android etc.), this git is updated. This should happen once per week but on some occasion, it might happen multiple times per week.
 
 ## Usage
-Even though this is a public repository, everyone here is subject to our [Terms & Conditions](https://www.faeria.com/terms)
+Even though this is a public repository, everyone here is subject to our [Terms & Conditions](https://www.faeria.com/legal-mentions)
